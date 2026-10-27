@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Orion Media Group: replaced Jellyfin vector foreground with brand art.
+     gravity="fill" scales the bitmap onto the 108dp adaptive-icon canvas so the
+     launcher mask (safe zone) shows the full artwork instead of a zoomed crop. -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/orion_foreground"
+    android:gravity="fill" />

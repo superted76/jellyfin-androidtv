@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Orion Media Group: monochrome layer derives from brand art alpha.
+     gravity="fill" scales the bitmap onto the 108dp adaptive-icon canvas. -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/orion_foreground"
+    android:gravity="fill" />
